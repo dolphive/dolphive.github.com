@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: #dolphive
+tagline: I type and drink coffee.
 ---
 {% include JB/setup %}
 
