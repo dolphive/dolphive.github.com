@@ -1,6 +1,6 @@
 ---
 layout: page
-title: #dolphive
+title: dolphive
 tagline: I type and drink coffee.
 ---
 {% include JB/setup %}
