@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Customize Tweets Feed Using Advanced Search"
+description: ""
+category: 
+tags: []
+---
+{% include JB/setup %}
+
 Being a heavy Twitter user, I don't know how many times I refresh my timeline in a single day. Since I have a sun-never-sets timeline (by following people across almost all time zones), every time I do it, there are always new tweets. One thing I find fascinating about social network is that anyone can decide and tailor what you would like to see or be involved, I count on Twitter for breaking news (well, usually it doesn't mean that breaking), interesting stories, fresh ideas, new technologies, and updates from the service / apps I use, I talk a lot to friends there, and sometimes interfere conversations that catch me. I love Twitter.
 
 The dark side of having a busy timeline is that you will always be risking missing stuff that you intended to be informed, well you can simply remove or (temporarily) mute some followings, but as a matter of face, Twitter has been aware of this issue and offers a handful tools to help release the pressure of intensive tweet feeds.
