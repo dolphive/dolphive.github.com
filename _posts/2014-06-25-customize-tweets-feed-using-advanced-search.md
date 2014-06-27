@@ -41,3 +41,5 @@ The search box on the top right corner of twitter.com is a power house and you c
 My friend once asked if there is any tool which can showcase tweet results of multiple keyword subscriptions, the first thing that came to my mind is to make use of the advanced search. Truth be told, Tweetbot is the app for my Twitter usage on both Mac and iOS, and it has been famous in feature-rich since the very beginning, advanced search included! On Mac, you can search with operators from the Search tab, and open the results as a new column, in this way, you are supposed to be subscribed to the tailored tweets feed you want.
 
 <img src="http://cl.hogger.me/image/3l1k0y3p3508/1*1_Ywasrh_T8W_zGXA3Ru8A.png" width="100%" alt="Tailor tweets in Tweetbot" />
+
+<img src="http://cl.alexr.pm/#single:2014-06-17%252019.35.13.jpg" width="100%" alt="Tailor tweets in Tweetbot" />
