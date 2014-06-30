@@ -1,5 +1,7 @@
 # This is the default format. 
 # For more see: http://jekyllrb.com/docs/permalinks/
+markdown: kramdown
+
 permalink: /:categories/:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
@@ -115,8 +117,6 @@ JB :
   #
   sharing :
     provider : false
-
-    markdown: kramdown
     
   # Settings for all other include helpers can be defined by creating 
   # a hash with key named for the given helper. ex:
